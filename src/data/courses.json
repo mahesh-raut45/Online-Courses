@@ -244,5 +244,155 @@
                 "details": "The DELETE statement is used to delete existing records in a table."
             }
         ]
+    },
+    {
+        "id": "id-python9u",
+        "title": "Python",
+        "description": "Python is a high-level, interpreted programming language.",
+        "img": "https://cdn-icons-png.flaticon.com/512/1822/1822899.png",
+        "chapters": [
+            {
+                "chapter": 1,
+                "title": "Introduction",
+                "description": "Introduction to Python",
+                "details": "Python is a popular programming language known for its simplicity and readability. It is widely used for web development, data analysis, artificial intelligence, scientific computing, and more."
+            },
+            {
+                "chapter": 2,
+                "title": "Variables and Data Types",
+                "description": "Understanding Variables and Data Types",
+                "details": "Variables in Python are used to store data. Python supports various data types, including integers, floats, strings, lists, and dictionaries."
+            },
+            {
+                "chapter": 3,
+                "title": "Control Flow",
+                "description": "Control Flow Statements",
+                "details": "Control flow statements like `if`, `else`, and `elif` allow you to execute different blocks of code based on conditions."
+            },
+            {
+                "chapter": 4,
+                "title": "Functions",
+                "description": "Defining and Using Functions",
+                "details": "Functions are reusable blocks of code. They allow you to write modular and organized programs."
+            },
+            {
+                "chapter": 5,
+                "title": "Modules and Packages",
+                "description": "Working with Modules and Packages",
+                "details": "Python has a rich ecosystem of modules and packages that extend its functionality. Common modules include os, sys, and math."
+            },
+            {
+                "chapter": 6,
+                "title": "File Handling",
+                "description": "Reading and Writing Files",
+                "details": "Python provides built-in functions for reading from and writing to files. This is essential for working with external data sources."
+            },
+            {
+                "chapter": 7,
+                "title": "Object-Oriented Programming",
+                "description": "Introduction to OOP",
+                "details": "Object-oriented programming (OOP) is a paradigm that uses objects and classes to structure and organize code."
+            }
+        ]
+    },
+    {
+        "id": "id-django47",
+        "title": "Django",
+        "description": "Django is a high-level Python web framework.",
+        "img": "https://cdn-icons-png.flaticon.com/512/5968/5968350.png",
+        "chapters": [
+            {
+                "chapter": 1,
+                "title": "Introduction",
+                "description": "What is Django?",
+                "details": "Django is a Python framework designed for rapid web development. It includes tools for handling databases, authentication, and routing."
+            },
+            {
+                "chapter": 2,
+                "title": "Setup",
+                "description": "Setting up a Django Project",
+                "details": "Learn how to install Django and create a new project. This includes setting up the development environment and creating your first app."
+            },
+            {
+                "chapter": 3,
+                "title": "Models",
+                "description": "Defining Models",
+                "details": "Models define the structure of your database. Learn to create and manage models using Django's ORM."
+            },
+            {
+                "chapter": 4,
+                "title": "Views",
+                "description": "Understanding Views",
+                "details": "Views handle the logic of your application. They connect the models with templates and process user requests."
+            },
+            {
+                "chapter": 5,
+                "title": "Templates",
+                "description": "Using Templates",
+                "details": "Templates define how your data is presented. They allow you to separate the design from the application logic."
+            },
+            {
+                "chapter": 6,
+                "title": "Forms",
+                "description": "Creating and Handling Forms",
+                "details": "Forms enable users to submit data to your application. Learn to create and validate forms in Django."
+            },
+            {
+                "chapter": 7,
+                "title": "Authentication",
+                "description": "User Authentication",
+                "details": "Django provides a built-in system for handling user authentication, including login, logout, and registration."
+            }
+        ]
+    },
+    {
+        "id": "id-flutter19",
+        "title": "Flutter",
+        "description": "Flutter is an open-source UI software development toolkit by Google.",
+        "img": "https://cdn-icons-png.flaticon.com/512/3523/3523288.png",
+        "chapters": [
+            {
+                "chapter": 1,
+                "title": "Introduction",
+                "description": "What is Flutter?",
+                "details": "Flutter is a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase."
+            },
+            {
+                "chapter": 2,
+                "title": "Setup",
+                "description": "Setting up Flutter",
+                "details": "Learn how to install Flutter, set up an editor, and create your first Flutter app."
+            },
+            {
+                "chapter": 3,
+                "title": "Widgets",
+                "description": "Understanding Widgets",
+                "details": "Widgets are the building blocks of a Flutter app. Learn about stateless and stateful widgets."
+            },
+            {
+                "chapter": 4,
+                "title": "Layouts",
+                "description": "Creating Layouts",
+                "details": "Flutter provides a flexible layout system. Learn to use containers, rows, columns, and stacks to build your UI."
+            },
+            {
+                "chapter": 5,
+                "title": "State Management",
+                "description": "Managing State",
+                "details": "State management is a critical part of any application. Learn about Provider and other state management techniques."
+            },
+            {
+                "chapter": 6,
+                "title": "Navigation",
+                "description": "Routing and Navigation",
+                "details": "Learn to create multi-screen apps and manage navigation between screens in Flutter."
+            },
+            {
+                "chapter": 7,
+                "title": "Animations",
+                "description": "Adding Animations",
+                "details": "Flutter's animation framework allows you to create visually appealing apps. Learn the basics of adding animations."
+            }
+        ]
     }
 ]
